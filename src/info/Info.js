@@ -89,7 +89,7 @@ export const info = {
     portfolio: [ 
         {
             title: "Movie Review Site",
-            live: "https://hakanozcan.me/hakanflix", 
+            live: "https://hakanozcan.tech/hakanflix", 
             source: "https://github.com/hakanozcan/hakanflix", 
             image: mock1
         },
@@ -101,13 +101,13 @@ export const info = {
         },
         {
             title: "Music Player",
-            live: "https://hakanozcan.me/hakanify/",
+            live: "https://hakanozcan.tech/hakanify/",
             source: "https://github.com/hakanozcan/hakanify",
             image: mock3
         },
         {
             title: "Weather App",
-            live: "https://hakanozcan.me/weatherapp",
+            live: "https://hakanozcan.tech/weatherapp",
             source: "https://github.com/hakanozcan/weatherapp",
             image: mock4
         },
